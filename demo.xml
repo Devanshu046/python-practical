@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rollno>
+        <n1 type="number">1.0</n1>
+        <n2 type="number">3.0</n2>
+        <n3 type="number">nan</n3>
+    </rollno>
+    <marks>
+        <n1 type="number">7020000.0</n1>
+        <n2 type="number">1000000.0</n2>
+        <n3 type="number">4128000.0</n3>
+    </marks>
+    <studentid>
+        <n1 type="number">35237.0</n1>
+        <n2 type="number">32238.0</n2>
+        <n3 type="number">44669.0</n3>
+    </studentid>
+</root>
